@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="040258b9-4c35-4d19-adf2-2713a7be9b92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem2.py" afterDir="false" />
+    <list default="true" id="040258b9-4c35-4d19-adf2-2713a7be9b92" name="Changes" comment="Added answer for problem 23 - learned list comprehension and enumerating a list into key/vlaue pairs for loop over.">
+      <change afterPath="$PROJECT_DIR$/EulerHelpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem40.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +49,8 @@
   "keyToString": {
     "Python.Problem1.executor": "Run",
     "Python.Problem2.executor": "Run",
+    "Python.Problem23.executor": "Run",
+    "Python.Problem40.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -99,12 +109,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723589848201</updated>
-      <workItem from="1723589849632" duration="2885000" />
+      <workItem from="1723589849632" duration="9189000" />
     </task>
+    <task id="LOCAL-00001" summary="First test of Python for Euler project - redoing older work">
+      <option name="closed" value="true" />
+      <created>1723594541743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723594541743</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First test of Python for Euler project - redoing older work">
+      <option name="closed" value="true" />
+      <created>1723594665782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723594665782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added answer for problem 23 - learned list comprehension and enumerating a list into key/vlaue pairs for loop over.">
+      <option name="closed" value="true" />
+      <created>1723673010124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723673010125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First test of Python for Euler project - redoing older work" />
+    <MESSAGE value="Added answer for problem 23 - learned list comprehension and enumerating a list into key/vlaue pairs for loop over." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added answer for problem 23 - learned list comprehension and enumerating a list into key/vlaue pairs for loop over." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -119,7 +159,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ProjectEuler$main.coverage" NAME="main Coverage Results" MODIFIED="1723589989263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectEuler$Problem40.coverage" NAME="Problem40 Coverage Results" MODIFIED="1723681621412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem2.coverage" NAME="Problem2 Coverage Results" MODIFIED="1723594506488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectEuler$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1723594387406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectEuler$Problem23.coverage" NAME="Problem23 Coverage Results" MODIFIED="1723672897026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
